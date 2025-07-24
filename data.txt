@@ -1,0 +1,3 @@
+jean
+castillo
+notas = [90,80,95,88]
