@@ -4,4 +4,4 @@ print(f"Hello {name}")
 def greet(name):
     return f"Hello {name}"
 
-greet("Lucas")
+print(greet("Lucas"))
