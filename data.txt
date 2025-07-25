@@ -3,3 +3,4 @@ castillo
 notas = [90,80,95,88]
 Nombre: jean | Notas: 90
 Nombre: jean | Notas: [90.5, 95.8, 90.2]
+Nombre: Juan | Notas: [90.4, 84.3, 99.9]
